@@ -19,5 +19,5 @@ ____
 
 Документация:
 
-- [Техническое задание](https://drive.google.com/file/d/1e1T-vqOJp0-eXYbjyZYiW-gggytlYQ9f/view?usp=sharing)
+- [Техническое задание](https://drive.google.com/file/d/1jJT6ddj6zO7JY0EMeZZ42WHdIKcI5614/view?usp=sharing)
 - [Курсовой проект](https://docs.google.com/document/d/13Ax4QHHmjV4wNLth1RSXWWlSMSlkkbEg3O5SFl5okmQ/edit)
