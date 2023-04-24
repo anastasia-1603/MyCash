@@ -16,6 +16,7 @@ ____
 ____
 - [Tаск-менеджер YouGile](https://ru.yougile.com/board/6tpnssfl5qep)
 - [Miro](https://miro.com/app/board/uXjVPhSBPwU=/?share_link_id=781042530555)
+- [Figma](https://www.figma.com/file/mvQlsnzXwbR7pxSrhBYc3L/MyCash?node-id=0%3A1&t=FHH6DYKirvtqcmpu-1)
 
 Документация:
 
