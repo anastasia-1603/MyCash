@@ -3,7 +3,7 @@
 
 [Backend](https://github.com/SteamMachinist/MyCash_server)
 
-[Frontend](https://github.com/anastasia-1603/MyCash_Frontend)
+[Frontend](https://github.com/anastasia-1603/MyCash_Client)
 
 ____
 
