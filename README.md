@@ -8,12 +8,14 @@
 ____
 
 Apk : [app-release.apk](https://github.com/anastasia-1603/MyCash/blob/main/app-release.apk)
+
+
 Видео:
-Презентация проекта https://youtu.be/oEiNQuy3hIQ
-Обзор приложения https://youtu.be/MdUpBg8eiMw
-Развертка сервера https://youtu.be/VVWdKY-WdEk
-Обзор клиентской части https://www.youtube.com/watch?v=Krk66Rnr8NY
-Обзор серверной части https://youtu.be/youF1RW_374
+- Презентация проекта https://youtu.be/oEiNQuy3hIQ
+- Обзор приложения https://youtu.be/MdUpBg8eiMw
+- Развертка сервера https://youtu.be/VVWdKY-WdEk
+- Обзор клиентской части https://www.youtube.com/watch?v=Krk66Rnr8NY
+- Обзор серверной части https://youtu.be/youF1RW_374
 ____
 
 Разработчики:  
