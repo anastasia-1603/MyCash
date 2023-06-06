@@ -13,6 +13,10 @@ Swagger:
 
 http://45.140.168.75:4080/swagger-ui/index.html
 
+Панель администратора (login: admin password: admin):
+
+http://45.140.168.75:4080/admin
+
 Apk : [app-release.apk](https://github.com/anastasia-1603/MyCash/blob/main/app-release.apk)
 
 
