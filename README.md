@@ -6,6 +6,12 @@
 [Frontend](https://github.com/anastasia-1603/MyCash_Client)
 
 ____
+Развёрнутый сервер:
+http://45.140.168.75:4080/
+
+Swagger:
+
+http://45.140.168.75:4080/swagger-ui/index.html
 
 Apk : [app-release.apk](https://github.com/anastasia-1603/MyCash/blob/main/app-release.apk)
 
