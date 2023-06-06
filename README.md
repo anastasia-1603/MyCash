@@ -6,6 +6,10 @@
 [Frontend](https://github.com/anastasia-1603/MyCash_Client)
 
 ____
+
+Финальная презентация:
+https://docs.google.com/presentation/d/1XNXee4K55La5WM64YsL5STpBTXx6lzWsRQBqrtl-5U0/edit?usp=sharing
+
 Развёрнутый сервер:
 http://45.140.168.75:4080/
 
