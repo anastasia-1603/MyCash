@@ -25,6 +25,8 @@ ____
 
 [Apk](https://github.com/anastasia-1603/MyCash/blob/main/app-release.apk)
 
+[Запасная ссылка на Apk](https://drive.google.com/file/d/1eukIvAwW_S7v0xxn6k0RoBPDgb-JXUZW/view?usp=sharing)
+
 [Развёрнутый сервер](http://45.140.168.75:4080/)
 
 [Swagger](http://45.140.168.75:4080/swagger-ui/index.html)
