@@ -46,7 +46,7 @@ ____
 ### Видео:
 
 - [Презентация проекта](https://youtu.be/TKwV5GPtYlk)
-- [Обзор приложения](https://youtu.be/MdUpBg8eiMw)
+- [Обзор приложения](https://youtu.be/4S_0ofJxDb8)
 - [Развертка сервера](https://youtu.be/VVWdKY-WdEk)
 - [Обзор клиентской части](https://www.youtube.com/watch?v=Krk66Rnr8NY)
 - [Обзор серверной части](https://youtu.be/youF1RW_374)
